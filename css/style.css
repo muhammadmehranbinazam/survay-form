@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#title{
+    margin: auto;
+    text-align: center;
+    font-size: 50px;
+    width: 500px;
+}
+#description{
+    margin: auto;
+    width: 500px;
+    padding: 50px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#survey-form{
+    margin: auto;
+   width: 500px;
+}
